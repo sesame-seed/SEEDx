@@ -30,9 +30,9 @@ These requirements include:
 
 ## Precision
 
-* ONT - 1 = 1
-* ONG - 1 = 1 000 000 000
-* SEED- 1 = 1 000 000
+* ONT : 1 = 1
+* ONG : 1 = 1 000 000 000
+* SEED :1 = 1 000 000
 
 ## Definitions
 
