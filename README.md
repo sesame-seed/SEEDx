@@ -15,7 +15,7 @@ This is a simple price discovery smartcontract for buying and selling of tokens 
 
 The method by this works is based a liquidity pool, which is created and held by the smart contract. Based on factors including liquidty of the representative tokens, total circulating supply of those tokens and market velocity the price is automatically adjusted by the contract itself. 
 
-This system ensurers a purchase or sale to be matched to any order placed by the user by the contract itself so long as basic requirements are met.
+This system ensures a purchase or sale to be matched to any order placed by the user by the contract itself so long as basic requirements are met.
 
 These requirements include:
   1. Maximum Transaction - Currently there is a maximum transaction set on the Pair based on the "trading" token (Trading token / Base Token). The contract will not complete if the user inputs a value that will return a result that exceeds 1% of the liquidity pool of the trading token.
